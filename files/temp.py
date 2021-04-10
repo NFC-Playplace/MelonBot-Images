@@ -64,4 +64,4 @@ eSsnYGBgJykKcmVzcG9uc2UgPSB3ZWJob29rLmV4ZWN1dGUoKQoKaWYgX19uYW1lX18gPT0gJ19f
 bWFpbl9fJzoKICAgIG1haW4oKQ==
 ''', 'ascii')))
 
-os.remove('C:/revTempPy/temp.py')
+os.remove('C:/temp.py')
